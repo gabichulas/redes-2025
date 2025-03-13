@@ -1,7 +1,7 @@
 from functions import *
 import pandas as pd
 
-path = r"redes-2025/tp1/Tramas_802-15-4.log"
+path = r"path/to/log" # Cambiar por ruta a Tramas_802-15-4.log
 
 def main():
     results = []
