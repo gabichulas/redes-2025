@@ -1,0 +1,12 @@
+Traza a la dirección dns.google [8.8.8.8]
+sobre un máximo de 30 saltos:
+
+  1     1 ms    <1 ms     2 ms  192.168.1.1
+  2     4 ms     4 ms     4 ms  200.51.241.1
+  3    33 ms    33 ms    31 ms  74.125.32.151
+  4    32 ms    32 ms    32 ms  74.125.32.150
+  5    35 ms    35 ms    34 ms  192.178.84.27
+  6    33 ms    33 ms    33 ms  72.14.239.121
+  7    33 ms    34 ms    35 ms  dns.google [8.8.8.8]
+
+Traza completa.
