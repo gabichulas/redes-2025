@@ -1,15 +1,9 @@
 Traza a 179.0.132.58 sobre caminos de 30 saltos como máximo.
 
-  1    <1 ms    <1 ms    <1 ms  192.168.1.1
-  2     4 ms     6 ms     3 ms  200.51.241.1
-  3    21 ms    20 ms    20 ms  146-247-30-181.fibertel.com.ar [181.30.247.146]
-  4    21 ms    20 ms    20 ms  147-247-30-181.fibertel.com.ar [181.30.247.147]
-  5     *        *        *     Tiempo de espera agotado para esta solicitud.
-  6     *        *        *     Tiempo de espera agotado para esta solicitud.
-  7    22 ms    21 ms    21 ms  host179.186-153-155.telecom.net.ar [186.153.155.179]
-  8    25 ms    22 ms    22 ms  host74.181-88-70.telecom.net.ar [181.88.70.74]
-  9    40 ms    41 ms    40 ms  uncu-riu-1G.MENDOZA.riu.edu.ar [170.210.4.22]
- 10     *        *        *     Tiempo de espera agotado para esta solicitud.
- 11    38 ms    38 ms    38 ms  179.0.132.58
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 - Router Local
+  2     4 ms     6 ms     3 ms  200.51.241.1 - Buenos Aires
+  8    25 ms    22 ms    22 ms  host74.181-88-70.telecom.net.ar [181.88.70.74] - Buenos Aires
+  9    40 ms    41 ms    40 ms  uncu-riu-1G.MENDOZA.riu.edu.ar [170.210.4.22] - Buenos Aires
+ 11    38 ms    38 ms    38 ms  179.0.132.58 - Mendoza
 
 Traza completa.

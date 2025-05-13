@@ -1,0 +1,6 @@
+Traza a la dirección gabriel [127.0.0.1]
+sobre un máximo de 30 saltos:
+
+  1    <1 ms    <1 ms    <1 ms  gabriel [127.0.0.1] - localhost
+
+Traza completa.
